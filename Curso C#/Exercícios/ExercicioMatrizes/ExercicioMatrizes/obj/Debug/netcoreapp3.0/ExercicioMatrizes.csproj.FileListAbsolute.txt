@@ -1,0 +1,10 @@
+C:\Users\Joel\source\repos\ExercicioMatrizes\ExercicioMatrizes\bin\Debug\netcoreapp3.0\ExercicioMatrizes.exe
+C:\Users\Joel\source\repos\ExercicioMatrizes\ExercicioMatrizes\bin\Debug\netcoreapp3.0\ExercicioMatrizes.deps.json
+C:\Users\Joel\source\repos\ExercicioMatrizes\ExercicioMatrizes\bin\Debug\netcoreapp3.0\ExercicioMatrizes.runtimeconfig.json
+C:\Users\Joel\source\repos\ExercicioMatrizes\ExercicioMatrizes\bin\Debug\netcoreapp3.0\ExercicioMatrizes.runtimeconfig.dev.json
+C:\Users\Joel\source\repos\ExercicioMatrizes\ExercicioMatrizes\bin\Debug\netcoreapp3.0\ExercicioMatrizes.dll
+C:\Users\Joel\source\repos\ExercicioMatrizes\ExercicioMatrizes\bin\Debug\netcoreapp3.0\ExercicioMatrizes.pdb
+C:\Users\Joel\source\repos\ExercicioMatrizes\ExercicioMatrizes\obj\Debug\netcoreapp3.0\ExercicioMatrizes.AssemblyInfoInputs.cache
+C:\Users\Joel\source\repos\ExercicioMatrizes\ExercicioMatrizes\obj\Debug\netcoreapp3.0\ExercicioMatrizes.AssemblyInfo.cs
+C:\Users\Joel\source\repos\ExercicioMatrizes\ExercicioMatrizes\obj\Debug\netcoreapp3.0\ExercicioMatrizes.dll
+C:\Users\Joel\source\repos\ExercicioMatrizes\ExercicioMatrizes\obj\Debug\netcoreapp3.0\ExercicioMatrizes.pdb

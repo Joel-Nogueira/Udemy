@@ -1,0 +1,11 @@
+C:\Udemy\Curso C#\Classes\AreaDoTriangulo\AreaDoTriangulo\obj\Debug\netcoreapp3.0\AreaDoTriangulo.csprojAssemblyReference.cache
+C:\Udemy\Curso C#\Classes\AreaDoTriangulo\AreaDoTriangulo\obj\Debug\netcoreapp3.0\AreaDoTriangulo.AssemblyInfoInputs.cache
+C:\Udemy\Curso C#\Classes\AreaDoTriangulo\AreaDoTriangulo\obj\Debug\netcoreapp3.0\AreaDoTriangulo.AssemblyInfo.cs
+C:\Udemy\Curso C#\Classes\AreaDoTriangulo\AreaDoTriangulo\bin\Debug\netcoreapp3.0\AreaDoTriangulo.exe
+C:\Udemy\Curso C#\Classes\AreaDoTriangulo\AreaDoTriangulo\bin\Debug\netcoreapp3.0\AreaDoTriangulo.deps.json
+C:\Udemy\Curso C#\Classes\AreaDoTriangulo\AreaDoTriangulo\bin\Debug\netcoreapp3.0\AreaDoTriangulo.runtimeconfig.json
+C:\Udemy\Curso C#\Classes\AreaDoTriangulo\AreaDoTriangulo\bin\Debug\netcoreapp3.0\AreaDoTriangulo.runtimeconfig.dev.json
+C:\Udemy\Curso C#\Classes\AreaDoTriangulo\AreaDoTriangulo\bin\Debug\netcoreapp3.0\AreaDoTriangulo.dll
+C:\Udemy\Curso C#\Classes\AreaDoTriangulo\AreaDoTriangulo\bin\Debug\netcoreapp3.0\AreaDoTriangulo.pdb
+C:\Udemy\Curso C#\Classes\AreaDoTriangulo\AreaDoTriangulo\obj\Debug\netcoreapp3.0\AreaDoTriangulo.dll
+C:\Udemy\Curso C#\Classes\AreaDoTriangulo\AreaDoTriangulo\obj\Debug\netcoreapp3.0\AreaDoTriangulo.pdb

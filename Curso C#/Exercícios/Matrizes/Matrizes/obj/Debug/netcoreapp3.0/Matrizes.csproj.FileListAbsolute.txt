@@ -1,0 +1,11 @@
+C:\Users\Joel\source\repos\Matrizes\Matrizes\bin\Debug\netcoreapp3.0\Matrizes.exe
+C:\Users\Joel\source\repos\Matrizes\Matrizes\bin\Debug\netcoreapp3.0\Matrizes.deps.json
+C:\Users\Joel\source\repos\Matrizes\Matrizes\bin\Debug\netcoreapp3.0\Matrizes.runtimeconfig.json
+C:\Users\Joel\source\repos\Matrizes\Matrizes\bin\Debug\netcoreapp3.0\Matrizes.runtimeconfig.dev.json
+C:\Users\Joel\source\repos\Matrizes\Matrizes\bin\Debug\netcoreapp3.0\Matrizes.dll
+C:\Users\Joel\source\repos\Matrizes\Matrizes\bin\Debug\netcoreapp3.0\Matrizes.pdb
+C:\Users\Joel\source\repos\Matrizes\Matrizes\obj\Debug\netcoreapp3.0\Matrizes.csprojAssemblyReference.cache
+C:\Users\Joel\source\repos\Matrizes\Matrizes\obj\Debug\netcoreapp3.0\Matrizes.AssemblyInfoInputs.cache
+C:\Users\Joel\source\repos\Matrizes\Matrizes\obj\Debug\netcoreapp3.0\Matrizes.AssemblyInfo.cs
+C:\Users\Joel\source\repos\Matrizes\Matrizes\obj\Debug\netcoreapp3.0\Matrizes.dll
+C:\Users\Joel\source\repos\Matrizes\Matrizes\obj\Debug\netcoreapp3.0\Matrizes.pdb

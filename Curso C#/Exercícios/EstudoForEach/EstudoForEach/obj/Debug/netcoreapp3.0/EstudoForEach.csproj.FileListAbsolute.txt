@@ -1,0 +1,11 @@
+C:\Users\Joel\source\repos\EstudoForEach\EstudoForEach\bin\Debug\netcoreapp3.0\EstudoForEach.exe
+C:\Users\Joel\source\repos\EstudoForEach\EstudoForEach\bin\Debug\netcoreapp3.0\EstudoForEach.deps.json
+C:\Users\Joel\source\repos\EstudoForEach\EstudoForEach\bin\Debug\netcoreapp3.0\EstudoForEach.runtimeconfig.json
+C:\Users\Joel\source\repos\EstudoForEach\EstudoForEach\bin\Debug\netcoreapp3.0\EstudoForEach.runtimeconfig.dev.json
+C:\Users\Joel\source\repos\EstudoForEach\EstudoForEach\bin\Debug\netcoreapp3.0\EstudoForEach.dll
+C:\Users\Joel\source\repos\EstudoForEach\EstudoForEach\bin\Debug\netcoreapp3.0\EstudoForEach.pdb
+C:\Users\Joel\source\repos\EstudoForEach\EstudoForEach\obj\Debug\netcoreapp3.0\EstudoForEach.csprojAssemblyReference.cache
+C:\Users\Joel\source\repos\EstudoForEach\EstudoForEach\obj\Debug\netcoreapp3.0\EstudoForEach.AssemblyInfoInputs.cache
+C:\Users\Joel\source\repos\EstudoForEach\EstudoForEach\obj\Debug\netcoreapp3.0\EstudoForEach.AssemblyInfo.cs
+C:\Users\Joel\source\repos\EstudoForEach\EstudoForEach\obj\Debug\netcoreapp3.0\EstudoForEach.dll
+C:\Users\Joel\source\repos\EstudoForEach\EstudoForEach\obj\Debug\netcoreapp3.0\EstudoForEach.pdb

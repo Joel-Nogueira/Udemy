@@ -1,0 +1,11 @@
+C:\Users\Joel\source\repos\EntradaPadrao\EntradaPadrao\bin\Debug\netcoreapp3.0\EntradaPadrao.exe
+C:\Users\Joel\source\repos\EntradaPadrao\EntradaPadrao\bin\Debug\netcoreapp3.0\EntradaPadrao.deps.json
+C:\Users\Joel\source\repos\EntradaPadrao\EntradaPadrao\bin\Debug\netcoreapp3.0\EntradaPadrao.runtimeconfig.json
+C:\Users\Joel\source\repos\EntradaPadrao\EntradaPadrao\bin\Debug\netcoreapp3.0\EntradaPadrao.runtimeconfig.dev.json
+C:\Users\Joel\source\repos\EntradaPadrao\EntradaPadrao\bin\Debug\netcoreapp3.0\EntradaPadrao.dll
+C:\Users\Joel\source\repos\EntradaPadrao\EntradaPadrao\bin\Debug\netcoreapp3.0\EntradaPadrao.pdb
+C:\Users\Joel\source\repos\EntradaPadrao\EntradaPadrao\obj\Debug\netcoreapp3.0\EntradaPadrao.csprojAssemblyReference.cache
+C:\Users\Joel\source\repos\EntradaPadrao\EntradaPadrao\obj\Debug\netcoreapp3.0\EntradaPadrao.AssemblyInfoInputs.cache
+C:\Users\Joel\source\repos\EntradaPadrao\EntradaPadrao\obj\Debug\netcoreapp3.0\EntradaPadrao.AssemblyInfo.cs
+C:\Users\Joel\source\repos\EntradaPadrao\EntradaPadrao\obj\Debug\netcoreapp3.0\EntradaPadrao.dll
+C:\Users\Joel\source\repos\EntradaPadrao\EntradaPadrao\obj\Debug\netcoreapp3.0\EntradaPadrao.pdb

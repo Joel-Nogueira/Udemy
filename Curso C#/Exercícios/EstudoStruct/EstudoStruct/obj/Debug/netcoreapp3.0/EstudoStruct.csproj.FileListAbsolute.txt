@@ -1,0 +1,11 @@
+C:\Users\Joel\source\repos\EstudoStruct\EstudoStruct\bin\Debug\netcoreapp3.0\EstudoStruct.exe
+C:\Users\Joel\source\repos\EstudoStruct\EstudoStruct\bin\Debug\netcoreapp3.0\EstudoStruct.deps.json
+C:\Users\Joel\source\repos\EstudoStruct\EstudoStruct\bin\Debug\netcoreapp3.0\EstudoStruct.runtimeconfig.json
+C:\Users\Joel\source\repos\EstudoStruct\EstudoStruct\bin\Debug\netcoreapp3.0\EstudoStruct.runtimeconfig.dev.json
+C:\Users\Joel\source\repos\EstudoStruct\EstudoStruct\bin\Debug\netcoreapp3.0\EstudoStruct.dll
+C:\Users\Joel\source\repos\EstudoStruct\EstudoStruct\bin\Debug\netcoreapp3.0\EstudoStruct.pdb
+C:\Users\Joel\source\repos\EstudoStruct\EstudoStruct\obj\Debug\netcoreapp3.0\EstudoStruct.csprojAssemblyReference.cache
+C:\Users\Joel\source\repos\EstudoStruct\EstudoStruct\obj\Debug\netcoreapp3.0\EstudoStruct.AssemblyInfoInputs.cache
+C:\Users\Joel\source\repos\EstudoStruct\EstudoStruct\obj\Debug\netcoreapp3.0\EstudoStruct.AssemblyInfo.cs
+C:\Users\Joel\source\repos\EstudoStruct\EstudoStruct\obj\Debug\netcoreapp3.0\EstudoStruct.dll
+C:\Users\Joel\source\repos\EstudoStruct\EstudoStruct\obj\Debug\netcoreapp3.0\EstudoStruct.pdb

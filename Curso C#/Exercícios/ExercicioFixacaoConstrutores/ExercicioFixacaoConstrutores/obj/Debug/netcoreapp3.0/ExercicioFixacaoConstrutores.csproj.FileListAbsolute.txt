@@ -1,0 +1,11 @@
+C:\Udemy\Curso C#\Exercícios\ExercicioFixacaoConstrutores\ExercicioFixacaoConstrutores\bin\Debug\netcoreapp3.0\ExercicioFixacaoConstrutores.exe
+C:\Udemy\Curso C#\Exercícios\ExercicioFixacaoConstrutores\ExercicioFixacaoConstrutores\bin\Debug\netcoreapp3.0\ExercicioFixacaoConstrutores.deps.json
+C:\Udemy\Curso C#\Exercícios\ExercicioFixacaoConstrutores\ExercicioFixacaoConstrutores\bin\Debug\netcoreapp3.0\ExercicioFixacaoConstrutores.runtimeconfig.json
+C:\Udemy\Curso C#\Exercícios\ExercicioFixacaoConstrutores\ExercicioFixacaoConstrutores\bin\Debug\netcoreapp3.0\ExercicioFixacaoConstrutores.runtimeconfig.dev.json
+C:\Udemy\Curso C#\Exercícios\ExercicioFixacaoConstrutores\ExercicioFixacaoConstrutores\bin\Debug\netcoreapp3.0\ExercicioFixacaoConstrutores.dll
+C:\Udemy\Curso C#\Exercícios\ExercicioFixacaoConstrutores\ExercicioFixacaoConstrutores\bin\Debug\netcoreapp3.0\ExercicioFixacaoConstrutores.pdb
+C:\Udemy\Curso C#\Exercícios\ExercicioFixacaoConstrutores\ExercicioFixacaoConstrutores\obj\Debug\netcoreapp3.0\ExercicioFixacaoConstrutores.csprojAssemblyReference.cache
+C:\Udemy\Curso C#\Exercícios\ExercicioFixacaoConstrutores\ExercicioFixacaoConstrutores\obj\Debug\netcoreapp3.0\ExercicioFixacaoConstrutores.AssemblyInfoInputs.cache
+C:\Udemy\Curso C#\Exercícios\ExercicioFixacaoConstrutores\ExercicioFixacaoConstrutores\obj\Debug\netcoreapp3.0\ExercicioFixacaoConstrutores.AssemblyInfo.cs
+C:\Udemy\Curso C#\Exercícios\ExercicioFixacaoConstrutores\ExercicioFixacaoConstrutores\obj\Debug\netcoreapp3.0\ExercicioFixacaoConstrutores.dll
+C:\Udemy\Curso C#\Exercícios\ExercicioFixacaoConstrutores\ExercicioFixacaoConstrutores\obj\Debug\netcoreapp3.0\ExercicioFixacaoConstrutores.pdb
