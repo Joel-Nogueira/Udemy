@@ -1,0 +1,10 @@
+C:\Projetos\Udemy\Curso C#\Exercícios\InferenciaDeTipos\InferenciaDeTipos\bin\Debug\netcoreapp3.0\InferenciaDeTipos.exe
+C:\Projetos\Udemy\Curso C#\Exercícios\InferenciaDeTipos\InferenciaDeTipos\bin\Debug\netcoreapp3.0\InferenciaDeTipos.deps.json
+C:\Projetos\Udemy\Curso C#\Exercícios\InferenciaDeTipos\InferenciaDeTipos\bin\Debug\netcoreapp3.0\InferenciaDeTipos.runtimeconfig.json
+C:\Projetos\Udemy\Curso C#\Exercícios\InferenciaDeTipos\InferenciaDeTipos\bin\Debug\netcoreapp3.0\InferenciaDeTipos.runtimeconfig.dev.json
+C:\Projetos\Udemy\Curso C#\Exercícios\InferenciaDeTipos\InferenciaDeTipos\bin\Debug\netcoreapp3.0\InferenciaDeTipos.dll
+C:\Projetos\Udemy\Curso C#\Exercícios\InferenciaDeTipos\InferenciaDeTipos\bin\Debug\netcoreapp3.0\InferenciaDeTipos.pdb
+C:\Projetos\Udemy\Curso C#\Exercícios\InferenciaDeTipos\InferenciaDeTipos\obj\Debug\netcoreapp3.0\InferenciaDeTipos.AssemblyInfoInputs.cache
+C:\Projetos\Udemy\Curso C#\Exercícios\InferenciaDeTipos\InferenciaDeTipos\obj\Debug\netcoreapp3.0\InferenciaDeTipos.AssemblyInfo.cs
+C:\Projetos\Udemy\Curso C#\Exercícios\InferenciaDeTipos\InferenciaDeTipos\obj\Debug\netcoreapp3.0\InferenciaDeTipos.dll
+C:\Projetos\Udemy\Curso C#\Exercícios\InferenciaDeTipos\InferenciaDeTipos\obj\Debug\netcoreapp3.0\InferenciaDeTipos.pdb

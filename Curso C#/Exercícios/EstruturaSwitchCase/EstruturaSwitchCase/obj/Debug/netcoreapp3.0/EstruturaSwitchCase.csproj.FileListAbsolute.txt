@@ -1,0 +1,11 @@
+C:\Projetos\Udemy\Curso C#\Exercícios\EstruturaSwitchCase\EstruturaSwitchCase\bin\Debug\netcoreapp3.0\EstruturaSwitchCase.exe
+C:\Projetos\Udemy\Curso C#\Exercícios\EstruturaSwitchCase\EstruturaSwitchCase\bin\Debug\netcoreapp3.0\EstruturaSwitchCase.deps.json
+C:\Projetos\Udemy\Curso C#\Exercícios\EstruturaSwitchCase\EstruturaSwitchCase\bin\Debug\netcoreapp3.0\EstruturaSwitchCase.runtimeconfig.json
+C:\Projetos\Udemy\Curso C#\Exercícios\EstruturaSwitchCase\EstruturaSwitchCase\bin\Debug\netcoreapp3.0\EstruturaSwitchCase.runtimeconfig.dev.json
+C:\Projetos\Udemy\Curso C#\Exercícios\EstruturaSwitchCase\EstruturaSwitchCase\bin\Debug\netcoreapp3.0\EstruturaSwitchCase.dll
+C:\Projetos\Udemy\Curso C#\Exercícios\EstruturaSwitchCase\EstruturaSwitchCase\bin\Debug\netcoreapp3.0\EstruturaSwitchCase.pdb
+C:\Projetos\Udemy\Curso C#\Exercícios\EstruturaSwitchCase\EstruturaSwitchCase\obj\Debug\netcoreapp3.0\EstruturaSwitchCase.csprojAssemblyReference.cache
+C:\Projetos\Udemy\Curso C#\Exercícios\EstruturaSwitchCase\EstruturaSwitchCase\obj\Debug\netcoreapp3.0\EstruturaSwitchCase.AssemblyInfoInputs.cache
+C:\Projetos\Udemy\Curso C#\Exercícios\EstruturaSwitchCase\EstruturaSwitchCase\obj\Debug\netcoreapp3.0\EstruturaSwitchCase.AssemblyInfo.cs
+C:\Projetos\Udemy\Curso C#\Exercícios\EstruturaSwitchCase\EstruturaSwitchCase\obj\Debug\netcoreapp3.0\EstruturaSwitchCase.dll
+C:\Projetos\Udemy\Curso C#\Exercícios\EstruturaSwitchCase\EstruturaSwitchCase\obj\Debug\netcoreapp3.0\EstruturaSwitchCase.pdb
